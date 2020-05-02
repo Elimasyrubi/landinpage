@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff59739470d3bec128c87fa45e0d1c6d",
+    "revision": "17cab3eddfd857bc82bc1ba83b42b15e",
     "url": "/landinpage/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landinpage/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "cae8cf861ab266b182f3",
-    "url": "/landinpage/static/css/main.ea112fe3.chunk.css"
+    "revision": "d0d425616eac6f65a076",
+    "url": "/landinpage/static/css/main.27f93104.chunk.css"
   },
   {
     "revision": "3716d9d8b919bf235a08",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landinpage/static/js/2.2ea5bcd2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cae8cf861ab266b182f3",
-    "url": "/landinpage/static/js/main.99803cb5.chunk.js"
+    "revision": "d0d425616eac6f65a076",
+    "url": "/landinpage/static/js/main.8523b7a4.chunk.js"
   },
   {
     "revision": "05a44d4a37559f260246",
