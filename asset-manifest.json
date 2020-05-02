@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/landinpage/static/css/main.1b7c59b9.chunk.css",
-    "main.js": "/landinpage/static/js/main.053ed688.chunk.js",
-    "main.js.map": "/landinpage/static/js/main.053ed688.chunk.js.map",
+    "main.js": "/landinpage/static/js/main.69999112.chunk.js",
+    "main.js.map": "/landinpage/static/js/main.69999112.chunk.js.map",
     "runtime-main.js": "/landinpage/static/js/runtime-main.e7b1107f.js",
     "runtime-main.js.map": "/landinpage/static/js/runtime-main.e7b1107f.js.map",
     "static/css/2.74189dbb.chunk.css": "/landinpage/static/css/2.74189dbb.chunk.css",
     "static/js/2.2ea5bcd2.chunk.js": "/landinpage/static/js/2.2ea5bcd2.chunk.js",
     "static/js/2.2ea5bcd2.chunk.js.map": "/landinpage/static/js/2.2ea5bcd2.chunk.js.map",
     "index.html": "/landinpage/index.html",
-    "precache-manifest.02ee910391e12fc0ce9d5569857161cc.js": "/landinpage/precache-manifest.02ee910391e12fc0ce9d5569857161cc.js",
+    "precache-manifest.e817ecd9071c6808f05a7ff8c96bc604.js": "/landinpage/precache-manifest.e817ecd9071c6808f05a7ff8c96bc604.js",
     "service-worker.js": "/landinpage/service-worker.js",
     "static/css/2.74189dbb.chunk.css.map": "/landinpage/static/css/2.74189dbb.chunk.css.map",
     "static/css/main.1b7c59b9.chunk.css.map": "/landinpage/static/css/main.1b7c59b9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.74189dbb.chunk.css",
     "static/js/2.2ea5bcd2.chunk.js",
     "static/css/main.1b7c59b9.chunk.css",
-    "static/js/main.053ed688.chunk.js"
+    "static/js/main.69999112.chunk.js"
   ]
 }
